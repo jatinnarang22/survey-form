@@ -1,5 +1,9 @@
 frontend link
 >https://surveyfrontend-8l2j.onrender.com/
+credentials for admin panel is
+>email- jatin12@evotech.com
+>password- 123
+>😊🙂 
 
 
 MERN Stack Survey Form Application
